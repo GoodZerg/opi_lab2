@@ -23,4 +23,8 @@ public class A extends I {
     public java.lang.Class qq() {
         return getClass();
     }
+
+    public void ab() {
+        System.out.println("\n");
+    }
 }

@@ -23,4 +23,8 @@ public class I {
     public int hh() {
         return new java.util.Random(10).nextInt(10);
     }
+
+    public String nn() {
+        return "++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++";
+    }
 }
