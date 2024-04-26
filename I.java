@@ -11,8 +11,4 @@ public class I {
     public void aa() {
         System.out.println("void aa");
     }
-
-    public Object pp() {
-        return this;
-    }
 }
