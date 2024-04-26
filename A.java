@@ -27,4 +27,8 @@ public class A extends I {
     public void ab() {
         System.out.println("\n");
     }
+
+    public int cc() {
+        return 42;
+    }
 }

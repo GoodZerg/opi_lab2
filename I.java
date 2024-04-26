@@ -27,4 +27,8 @@ public class I {
     public String nn() {
         return "++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++";
     }
+
+    public java.lang.Class qq() {
+        return getClass();
+    }
 }
