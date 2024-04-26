@@ -12,6 +12,10 @@ public class A extends I {
         return null;
     }
 
+    public void ab() {
+        System.out.println("\n");
+    }
+
     public String kk() {
         return "Yes";
     }
@@ -42,6 +46,10 @@ public class A extends I {
 
     public int cc() {
         return 42;
+    }
+
+    public double ad() {
+        return 11;
     }
 
     public java.util.Random mm() {
