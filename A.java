@@ -31,4 +31,8 @@ public class A extends I {
     public int cc() {
         return 42;
     }
+
+    public double ad() {
+        return 11;
+    }
 }
