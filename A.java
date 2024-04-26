@@ -12,6 +12,10 @@ public class A extends I {
         return null;
     }
 
+    public void ab() {
+        System.out.println("\n");
+    }
+
     public String kk() {
         return "Yes";
     }
@@ -24,15 +28,19 @@ public class A extends I {
         return getClass();
     }
 
-    public void ab() {
-        System.out.println("\n");
-    }
-
     public int cc() {
         return 42;
     }
 
     public double ad() {
         return 11;
+    }
+
+    public java.util.Random mm() {
+        return new java.util.Random();
+    }
+
+    public java.util.Set<Integer> ll() {
+        return new java.util.LinkedList<Integer>;
     }
 }
