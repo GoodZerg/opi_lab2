@@ -19,4 +19,36 @@ public class A extends I {
     public int[] ii() {
         return new int[]{4, 3, 2, 1};
     }
+
+    public void ab() {
+        System.out.println();
+    }
+
+    public java.lang.Class qq() {
+        return getClass();
+    }
+
+    public Object pp() {
+        return this;
+    }
+
+    public String nn() {
+        return "++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++";
+    }
+
+    public void bb() {
+        System.out.println(42);
+    }
+
+    public int cc() {
+        return 42;
+    }
+
+    public java.util.Random mm() {
+        return new java.util.Random();
+    }
+
+    public java.util.Set<Integer> ll() {
+        return new java.util.LinkedList<Integer>;
+    }
 }
