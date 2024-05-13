@@ -10,5 +10,6 @@ public class I {
 
     public void aa() {
         System.out.println("void aa");
+    
     }
 }
