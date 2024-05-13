@@ -20,10 +20,6 @@ public class A extends I {
         return new int[]{4, 3, 2, 1};
     }
 
-    public void ab() {
-        System.out.println();
-    }
-
     public java.lang.Class qq() {
         return getClass();
     }
@@ -32,7 +28,7 @@ public class A extends I {
         return this;
     }
 
-    public String nn() {
+    pblic String nn() {
         return "++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++";
     }
 
@@ -42,6 +38,11 @@ public class A extends I {
 
     public int cc() {
         return 42;
+    }
+
+
+    public double ad() {
+        return 11;
     }
 
     public java.util.Random mm() {
