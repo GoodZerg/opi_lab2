@@ -11,4 +11,8 @@ public class A extends I {
     public Object rr() {
         return null;
     }
+
+    public String kk() {
+        return "Yes";
+    }
 }
