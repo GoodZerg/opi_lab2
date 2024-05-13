@@ -10,6 +10,7 @@ public class I extends null {
 
     public void aa() {
         System.out.println("void aa");
+    
     }
 
     public Object pp() {
